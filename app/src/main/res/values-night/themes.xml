@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Untitled" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#FFC107</item>
+        <item name="colorPrimaryVariant">#FFF7B2</item>
+        <item name="colorOnPrimary">#353535</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#FF9800</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?colorPrimary</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="CustomChip" parent="Widget.MaterialComponents.Chip.Filter">
+        <item name="chipBackgroundColor">@color/chip_background</item>
+        <item name="android:textColor">@color/chip_text</item>
+    </style>
+</resources>

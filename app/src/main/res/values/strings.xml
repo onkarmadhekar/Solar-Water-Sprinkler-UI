@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Drops</string>
+    <string name="openNavBar">Navigation Drawer Open</string>
+    <string name="closeNavBar">Navigation Drawer Close</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Bhargav Andhe</string>
+    <string name="nav_header_subtitle">Solapur</string>
+    <string name="nav_header_desc">Bhargav Andhe</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="time_control">Time Control</string>
+    <string name="guide">Crop Guide</string>
+    <string name="settings">Settings</string>
+    <string name="help">Help</string>
+    <string name="code">Code</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_version">0.1</string>
+
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac diam neque. Nulla suscipit dolor in fringilla volutpat. Nam volutpat justo at feugiat viverra. Donec varius accumsan lacinia. Fusce scelerisque, nisi at ultricies efficitur, odio mauris euismod lacus, nec bibendum dui est at metus. Phasellus volutpat, dolor ac euismod efficitur, augue urna efficitur ligula, sed egestas massa nulla sit amet dolor. In at convallis lorem. Nunc vitae urna vitae nisi congue semper. Suspendisse hendrerit libero ac orci pretium aliquam.
+    </string>
+    <string name="logout">Logout</string>
+    <string name="crop_guide">Crop Guide</string>
+    <string name="setting_guide">Setting Guide</string>
+    <string name="add_device">Add Device</string>
+    <string name="help_head">Help</string>
+</resources>
